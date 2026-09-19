@@ -1,0 +1,4 @@
+numpy
+pandas
+matplotlib>=3.9
+ucimlrepo
